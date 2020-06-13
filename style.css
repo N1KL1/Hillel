@@ -1,0 +1,71 @@
+table, tr, td {
+    border: 5px solid black;
+    border-collapse: collapse;
+
+}
+
+
+
+.c1 {
+    width: 53px;
+    height: 80px;
+    background: white;
+}
+
+.c2 {
+    width: 78px;
+}
+
+.c3 {
+    width: 74px;
+    height: 150px;
+    background: yellow;
+}
+
+.c4 {
+    width: 138px;
+    height: 40px;
+}
+.r2 {
+    height: 40px;
+}
+.a{
+    height: 40px;
+}
+.a1{
+    background: darkblue;
+}
+.a2{
+    background: darkblue;
+}
+
+.r3 {
+
+    height: 40px;
+    width: 200px;
+}
+.e2{
+    height: 60px;
+    width: 350px;
+}
+
+.r4 {
+    height: 40px;
+    width: 200px;
+}
+
+.r5 {
+    height: 40px;
+}
+.e1{
+    background: yellow;
+}
+.y1{
+    background: yellow;
+}
+.y2{
+    background: red;
+}
+.t1 {
+    background: red;
+}
